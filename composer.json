@@ -1,0 +1,33 @@
+{
+    "name": "psiphp/view",
+    "description": "Template-less view system",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@dantleech.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "symfony/options-resolver": "^3.0",
+        "sylius/registry": "^0.19.0",
+        "phpunit/phpunit": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psi\\Component\\View\\": "lib/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Psi\\Component\\View\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
