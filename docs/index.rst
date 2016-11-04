@@ -2,8 +2,8 @@ View
 ====
 
 The view component is a simple object-based "view" system. It is roughly
-analagous to a more-specific implementation of the controller and view of an
-MVC framework, but without rendered output.
+analagous to a more-specific implementation of the controller and view of the
+MVC pattern, but without rendered output.
 
 Each view has a type, for example ``markdown`` or ``image`` (or ``table``,
 ``row``, ``cell``, or whatever). The type is responsible for creating a view

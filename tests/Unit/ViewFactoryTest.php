@@ -2,12 +2,12 @@
 
 namespace Psi\Component\View\Tests\Unit;
 
-use Psi\Component\View\TypeRegistry;
-use Psi\Component\View\TypeInterface;
 use Prophecy\Argument;
+use Psi\Component\View\TypeInterface;
+use Psi\Component\View\TypeRegistry;
 use Psi\Component\View\ViewFactory;
-use Symfony\Component\OptionsResolver\OptionsResolver;
 use Psi\Component\View\ViewInterface;
+use Symfony\Component\OptionsResolver\OptionsResolver;
 
 class ViewFactoryTest extends \PHPUnit_Framework_TestCase
 {
