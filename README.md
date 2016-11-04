@@ -6,12 +6,12 @@
 [![Scrutinizer Code
 Quality](https://scrutinizer-ci.com/g/psiphp/view/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/psiphp/view/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/psiphp/view/version.png?format=plastic)](https://packagist.org/packages/psiphp/view)
-[![Total Downloads](https://poser.pugx.org/psiphp/content-type/d/total.png?format=plastic)](https://packagist.org/packages/psiphp/view)
+[![Total Downloads](https://poser.pugx.org/psiphp/view/d/total.png?format=plastic)](https://packagist.org/packages/psiphp/view)
 
 
 This component is part of the Psi Content Management Framework
 
-Template-less object view provides a framework for creating view types which
+The view component provides a framework for creating view types which
 produce view *objects* from given data and configuration.
 
 ## Documentation
