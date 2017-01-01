@@ -16,8 +16,7 @@ produce view *objects* from given data and configuration.
 
 ## Documentation
 
-You can find out more about this component and others
-[here](https://psiphp.readthedocs.io/en/latest/components/view/docs/index.html).
+See the documentation in [doc/index.rst](https://github.com/psiphp/view/blob/master/docs/index.rst).
 
 ## Installation
 
