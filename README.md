@@ -14,9 +14,10 @@ This component is part of the Psi Content Management Framework
 The view component provides a framework for creating view types which
 produce view *objects* from given data and configuration.
 
+
 ## Documentation
 
-See the documentation in [doc/index.rst](https://github.com/psiphp/view/blob/master/docs/index.rst).
+Documentation is in progress, there may be documentation in [doc/index.rst](https://github.com/psiphp/view/blob/master/docs/index.rst).
 
 ## Installation
 
